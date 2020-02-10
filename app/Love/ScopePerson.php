@@ -1,5 +1,5 @@
 <?php
-namespace App\Scopes;
+namespace App\Love;
 
 use Illuminate\Database\Eloquent\Scope;
 use Illuminate\Database\Eloquent\Model;
